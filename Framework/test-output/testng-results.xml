@@ -26,12 +26,12 @@
       <![CDATA[Test completed >> Report Generated]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="160662" started-at="2022-01-23T03:59:40Z" finished-at="2022-01-23T04:02:20Z">
+  <suite name="Suite" duration-ms="160556" started-at="2022-01-23T06:18:18Z" finished-at="2022-01-23T06:20:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="160662" started-at="2022-01-23T03:59:40Z" finished-at="2022-01-23T04:02:20Z">
+    <test name="Test" duration-ms="160556" started-at="2022-01-23T06:18:18Z" finished-at="2022-01-23T06:20:59Z">
       <class name="com.Appmaker.TestCases.CRM_Template">
-        <test-method status="PASS" signature="setUpexcelSuite()[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="setUpexcelSuite" is-config="true" duration-ms="555" started-at="2022-01-23T03:59:39Z" finished-at="2022-01-23T03:59:40Z">
+        <test-method status="PASS" signature="setUpexcelSuite()[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="setUpexcelSuite" is-config="true" duration-ms="634" started-at="2022-01-23T06:18:18Z" finished-at="2022-01-23T06:18:18Z">
           <reporter-output>
             <line>
               <![CDATA[Setting up reports and test is getting ready]]>
@@ -41,7 +41,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUpexcelSuite -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="setup" is-config="true" duration-ms="7330" started-at="2022-01-23T03:59:40Z" finished-at="2022-01-23T03:59:47Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="setup" is-config="true" duration-ms="7653" started-at="2022-01-23T06:18:18Z" finished-at="2022-01-23T06:18:26Z">
           <reporter-output>
             <line>
               <![CDATA[Tring to start Broswser and Getting application ready]]>
@@ -51,11 +51,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LogintoApplication()[pri:1, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="LogintoApplication" duration-ms="71697" started-at="2022-01-23T03:59:47Z" finished-at="2022-01-23T04:00:59Z">
+        <test-method status="PASS" signature="LogintoApplication()[pri:1, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="LogintoApplication" duration-ms="71276" started-at="2022-01-23T06:18:26Z" finished-at="2022-01-23T06:19:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogintoApplication -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="tearDownMethod" is-config="true" duration-ms="305" started-at="2022-01-23T04:00:59Z" finished-at="2022-01-23T04:00:59Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="tearDownMethod" is-config="true" duration-ms="347" started-at="2022-01-23T06:19:37Z" finished-at="2022-01-23T06:19:38Z">
           <params>
             <param index="0">
               <value>
@@ -72,11 +72,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="createNewCRMapp()[pri:2, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="createNewCRMapp" duration-ms="81200" started-at="2022-01-23T04:00:59Z" finished-at="2022-01-23T04:02:20Z">
+        <test-method status="PASS" signature="createNewCRMapp()[pri:2, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="createNewCRMapp" duration-ms="81137" started-at="2022-01-23T06:19:38Z" finished-at="2022-01-23T06:20:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createNewCRMapp -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="tearDownMethod" is-config="true" duration-ms="116" started-at="2022-01-23T04:02:20Z" finished-at="2022-01-23T04:02:20Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.Appmaker.TestCases.CRM_Template@78c03f1f]" name="tearDownMethod" is-config="true" duration-ms="130" started-at="2022-01-23T06:20:59Z" finished-at="2022-01-23T06:20:59Z">
           <params>
             <param index="0">
               <value>
@@ -94,6 +94,6 @@
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
       </class> <!-- com.Appmaker.TestCases.CRM_Template -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
